@@ -1,2 +1,2 @@
-# learned from chai or code
-# I completed GIT AND GITHUB SERIED FROM CHAI OR CODE
+# learned from chai or code.
+# I completed GIT AND GITHUB SERIES FROM CHAI OR CODE.
