@@ -1,2 +1,4 @@
 this is trhe new file
 add another line and commit it.
+add 3rd line
+add 4th line
